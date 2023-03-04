@@ -3,7 +3,7 @@
 /**
 *binary_tree_balance - get the balance factor of a tree
 *@tree: pointer to the root node of the tree to measure the balance factor
-*Return 0 or balance factor
+*Return: 0 or balance factor
 */
 
 int binary_tree_balance(const binary_tree_t *tree)
